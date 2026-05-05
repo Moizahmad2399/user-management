@@ -121,7 +121,8 @@ user-management/
 ## 👨‍💻 Developer
 
 **Moiz Ahmad**
-COMSATS University Islamabad
+
+
 Web technologies
 
 ---
