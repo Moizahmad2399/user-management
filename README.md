@@ -120,9 +120,9 @@ user-management/
 
 ## 👨‍💻 Developer
 
-**Your Name**
+**Moiz Ahmad**
 COMSATS University Islamabad
-Mobile Application Development
+Web technologies
 
 ---
 
