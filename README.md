@@ -75,3 +75,53 @@ Visit: `http://127.0.0.1:8000`
 ---
 
 ## 📁 Project Structure
+user-management/
+├── app/
+│   ├── Http/Controllers/UserController.php
+│   └── Models/UserRegistration.php
+├── database/migrations/
+├── public/uploads/
+├── resources/views/
+│   ├── index.blade.php
+│   ├── create.blade.php
+│   └── edit.blade.php
+└── routes/web.php
+---
+
+## 📌 Routes
+
+| Method | URL | Action |
+|--------|-----|--------|
+| GET | / | Show all users |
+| GET | /create | Show create form |
+| POST | /store | Save new user |
+| GET | /edit/{id} | Show edit form |
+| POST | /update/{id} | Update user |
+| GET | /delete/{id} | Delete user |
+| GET | /search | Search by email |
+
+---
+
+## 📷 Screenshots
+
+### User Listing
+> *(Add your screenshot here)*
+
+### Registration Form
+> *(Add your screenshot here)*
+
+### Edit Form
+> *(Add your screenshot here)*
+
+---
+
+## 👨‍💻 Developer
+
+**Your Name**
+COMSATS University Islamabad
+Mobile Application Development
+
+---
+
+## 📄 License
+This project is for educational purposes only.
